@@ -17,6 +17,7 @@ body {
 }
 
 /* Div Styles ************************************/
+/*Header div styles*****************/
 
 #header {
   background-image: url("../images/flatiron.png");
@@ -26,19 +27,37 @@ body {
   font-size: 18px;
 
 }
-
 #header h1 {
   margin-top: inherit;
   font-size: 70px;
   font-weight: bold;
 }
-
 #header p {
   line-height: 10px;
   padding-bottom: 6px;
 }
-
+/*Process div styles*******************/
+#process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+#process h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+#process p {
+  font-size: 14px;
+}
+/*Contact div styles*******************/
 #contact h2 {
   background-image: url("../images/flatiron.png");
   padding: 15px;
+  font-size: 23px;
+  font-weight: bold;
+  color: #fff;
 }
+#contact h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+/*Footer div styles*******************/
