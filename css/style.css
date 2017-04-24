@@ -61,3 +61,19 @@ body {
   font-weight: bold;
 }
 /*Footer div styles*******************/
+#footer {
+  color: #fff;
+  background-color: dimgray;
+  text-align: left;
+}
+#footer a {
+  color: #fff;
+}
+#footer a:hover{
+  color: darkgray;
+}
+
+#footer .copyright {
+  font-size: 11 px;
+  color: #fff;
+}
