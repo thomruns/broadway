@@ -1,3 +1,19 @@
+/*Global Styles******************************/
+
+body {
+  font-family: Helvetica, Arial, san-serif;
+  text-align: center;
+}
+
+/* Div Styles ************************************/
+
+#header {
+  background-image: url("../images/flatiron.png");
+}
+
 h1 {
   TBD
+}
+#contact {
+  background-image: url("../images/flatiron.png");
 }
