@@ -27,5 +27,8 @@ h1 {
   margin-top: inherit;
 }
 #contact {
+
+}
+#contact h2 {
   background-image: url("../images/flatiron.png");
 }
