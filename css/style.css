@@ -1,18 +1,30 @@
 /*Global Styles******************************/
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+}
+*, *:before, *.after {
+  box-sizing: inherit;
+}
+
+
 
 body {
   font-family: Helvetica, Arial, san-serif;
   text-align: center;
+  margin: 0;
+  margin-top: 0;
 }
 
 /* Div Styles ************************************/
 
 #header {
   background-image: url("../images/flatiron.png");
+  margin: 0;
 }
 
 h1 {
-  TBD
+  margin-top: inherit;
 }
 #contact {
   background-image: url("../images/flatiron.png");
